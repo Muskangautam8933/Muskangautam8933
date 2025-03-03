@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/58d39db7-53cb-4085-b3d0-e0b57ce903df" alt="image" width="1000" h5eight="200">
+<img src="https://github.com/Muskangautam8933/Muskangautam8933/blob/main/Muskan%20Gautam%20(1).png?raw=true" alt="image" width="1000" h5eight="200">
 
 <h1 align="center">Hi 👋, I'm Muskan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
