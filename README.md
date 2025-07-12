@@ -1,7 +1,7 @@
 <img src="https://github.com/Muskangautam8933/Muskangautam8933/blob/main/Muskan%20Gautam%20(1).png?raw=true" alt="image" width="1000" h5eight="200">
 
 <h1 align="center">Hi 👋, I'm Muskan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
 - 🔭 I’m currently working on **Javascript**
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **muskangautam7064@gmail.com**
 
-- ⚡ Fun fact **I like to start my day with a cup of coffee and a fresh codebase. As a frontend developer, I've found that a good brew fuels not only my creativity but also my passion for crafting elegant and efficient code.**
+- ⚡ Fun fact **I like to start my day with a cup of coffee and a fresh codebase. As a Full Stack Developer, I've found that a good brew fuels not only my creativity but also my passion for crafting elegant and efficient code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
