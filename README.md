@@ -1,47 +1,151 @@
-<img src="https://github.com/Muskangautam8933/Muskangautam8933/blob/main/Muskan%20Gautam%20(1).png?raw=true" alt="image" width="1000" h5eight="200">
+<h1 align="center">
+  <img align="left" >
+  <span>Hey there, I'm Muskan Gautam! 👋</span>
+ 
+</h1>
 
-<h1 align="center">Hi 👋, I'm Muskan</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F79327&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Muskan+Gautam+👋;Aspiring+Software+Developer;+%7C+MERN+Stack+Enthusiast;;Always+Learning%2C+Always+Building!" />
+</div>
 
 
-- 🔭 I’m currently working on **Javascript**
 
-- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML ,CSS and JAVASCRIPT**
+---
 
-- 📫 How to reach me **muskangautam7064@gmail.com**
 
-- ⚡ Fun fact **I like to start my day with a cup of coffee and a fresh codebase. As a Full Stack Developer, I've found that a good brew fuels not only my creativity but also my passion for crafting elegant and efficient code.**
+## 🚀 About Me  
+✨ Passionate about crafting **scalable web applications**.  
+🔥 Knowledge in **JavaScript, React, Node.js, MongoDB,**.    
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/MuskanGautam893" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MuskanGautam893" height="30" width="40" />
-</a>
+<!-- Add this in your README.md file -->
 
-<a href="https://www.linkedin.com/in/muskan-gautam-mg893/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muskan-gautam-mg893" height="30" width="40" />
-</a>
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-<a href="https://github.com/Muskangautam8933" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Muskangautam8933" height="30" width="40" />
-</a>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-               <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
-</a>
+### 🎨 Frontend  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,sass,redux" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Building+UI+with+React+%26+Next.js;Styling+with+Tailwind+CSS;Modern+JavaScript+(ES6%2B);Vanilla+JS+Frontend+Projects" alt="Typing SVG" />
+</div>
+
+
+---
+
+### ⚙️ Backend  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+</div>
+
+<!--
+- 🔧 REST API development with **Node.js**, **Express.js**  
+- 🐍 API building with **Python (Flask / FastAPI)**  
+- 🔐 Auth, routing, middleware, backend logic
+-->
+---
+
+### 🗄️ Databases  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
+</div>
+
+<!--
+- 🍃 NoSQL: **MongoDB** using **Mongoose ODM**  
+- 🧮 SQL: **MySQL**, joins, constraints, indexing  
+- 📊 Writing efficient queries and schemas
+-->
+---
+
+### 🧰 Tools & Version Control  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools" />
+</div>
+
+<!--
+- 🛠️ **Git**, **GitHub** for VCS and collaboration  
+- 🔎 **Postman** for testing APIs  
+- ⚡ **VS Code**, DevTools for debugging and rapid dev
+-->
+---
+
+
+---
+
+### 🔥 Bonus Skills  
+- 💬 Clear communication & documentation  
+- 🧠 Fast learner, growth-focused  
+
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Always+Learning.+Always+Building.;Let's+build+something+amazing." alt="Typing SVG" />
+</div>
+
+
+
+
+## 🌟 What I'm Exploring Right Now  
+🚀 **Advanced React** – state management, performance tuning, component reusability  
+⚙️ **Backend Optimizations** – database indexing, caching strategies, API security  
+🌍 **New Web Tech** – keeping up with cutting-edge trends in the dev world  
+
+---
+## 📊✨ My GitHub Stats
+
+<div align="center">
+
+  <!-- 🔥 Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Muskangautam8933&theme=tokyonight&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" 
+       alt="GitHub Streak" 
+       width="500" />
+  
+  <br><br>
+
+  <!-- ⭐ GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Muskangautam8933&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&border_radius=10" 
+       alt="GitHub Stats" 
+       width="500" />
+  
+  
+</div>
+
+---
+
+
+
+## 📬 Let's Connect
+
+<div align="center">
+
+  <a href="mailto:MUSKANGAUTAM7064.COM">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  
+  &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/muskan893/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/Muskangautam8933" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Let's+build+something+extraordinary+together!" alt="Typing SVG" />
+
+</div>
+
+  
+
+---
+
+✨ **Like my work? Drop a star ⭐ on my repositories!**  
